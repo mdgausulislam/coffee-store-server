@@ -1,1 +1,1 @@
-# coffie-store-server
+# coffee-store-server
